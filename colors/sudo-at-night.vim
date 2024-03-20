@@ -126,7 +126,7 @@ hi Typedef         ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#F2F2F2
 " Diff
 " --------------------------------
 hi DiffAdd         ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#000000    gui=NONE
-hi DiffChange      ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#000000    gui=NONE
+hi DiffChange      ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#404040    guibg=#000000    gui=NONE
 hi DiffDelete      ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#000000    gui=NONE
 hi DiffText        ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#000000    gui=NONE
 
