@@ -12,5 +12,9 @@ Plug 'sudo-at-night/sudo-at-night-vim'
 ```
 
 ```vim
+" Dark theme
 colorscheme sudo-at-night
+
+" Light theme
+colorscheme sudo-at-day
 ```
